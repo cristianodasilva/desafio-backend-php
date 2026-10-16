@@ -1,0 +1,11 @@
+# Arquivos do macOS
+.DS_Store
+
+# Configurações locais e segredos
+.env
+.env.*
+!.env.example
+
+# Dependências e arquivos gerados
+vendor/
+node_modules/
